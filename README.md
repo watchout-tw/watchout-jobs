@@ -2,7 +2,7 @@
 
 **Department of Technology at Watchout** is looking for **full-time or part-time web developers**.
 
-Open an issue at [this repo](https://github.com/watchout-tw/jobs/) **OR** contact [dev@watchout.tw](#) for more details and appointment.
+Open an issue at [this repo](https://github.com/watchout-tw/jobs/) **OR** contact <dev@watchout.tw> for more details and appointment.
 
 ## Our passion
 - Want to code good
