@@ -5,7 +5,7 @@
 ## 聯絡我們
 
 - 在 [jobs 這個 repo](https://github.com/watchout-tw/jobs/) 開 issue
-- 寄信到 [dev@watchout.tw](#)
+- 寄信到 <dev@watchout.tw>
 
 ## 沃草是誰？
 
