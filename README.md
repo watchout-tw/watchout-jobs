@@ -4,7 +4,6 @@
 
 ## 聯絡我們
 
-- 在 [jobs 這個 repo](https://github.com/watchout-tw/jobs/) 開 issue
 - 寄信到 [dev@watchout.tw](#)
 
 ## 沃草是誰？
@@ -29,8 +28,9 @@
   - 圖片儲存及發佈服務
   - 短網址
   - 聊天室
-  - 台灣政治資料庫
+  - 台灣政治及公共事務資料庫
   - CMS 及編輯器
+  - 沃草會員及相關服務
 - 沃草專案
   - [國會無雙](https://musou.tw)
       - [另類新聞實驗](https://musou.watchout.tw)
